@@ -1,0 +1,11 @@
+Allyson Schrader (amschrad@ucsc.edu)
+CMPS111 - Project 1 - Shell
+due Monday April 20, 2009
+
+build: make
+clean: make clean
+run: ./myshell
+quit: exit
+
+This is a bare bones shell that handles file redirection, piping and 
+running in the background.
